@@ -1,0 +1,21 @@
+{
+  "name": "Sabir Lalahiane - Performance Marketing Strategist",
+  "short_name": "Sabir Lalahiane",
+  "description": "Performance marketing strategist helping brands scale through data-driven advertising, creative strategy and advanced tracking systems.",
+  "start_url": "/sabir-portfolio/",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-apple-touch.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
