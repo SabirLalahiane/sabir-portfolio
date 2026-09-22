@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sabirlalahiane.github.io/sabir-portfolio/v3/sitemap.xml
